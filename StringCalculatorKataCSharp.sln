@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorKataCSharp.Library", "StringCalculatorKataDiaTres.Library\StringCalculatorKataCSharp.Library.csproj", "{B465EE7B-FC43-4C61-8D65-D0F212D4F8D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorKataDiaCSharp.Test", "StringCalculatorKataDiaTres.Test\StringCalculatorKataDiaCSharp.Test.csproj", "{D1BF7EE6-0388-41BB-905D-C47BFED40DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B465EE7B-FC43-4C61-8D65-D0F212D4F8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B465EE7B-FC43-4C61-8D65-D0F212D4F8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B465EE7B-FC43-4C61-8D65-D0F212D4F8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B465EE7B-FC43-4C61-8D65-D0F212D4F8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BF7EE6-0388-41BB-905D-C47BFED40DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BF7EE6-0388-41BB-905D-C47BFED40DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BF7EE6-0388-41BB-905D-C47BFED40DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BF7EE6-0388-41BB-905D-C47BFED40DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
